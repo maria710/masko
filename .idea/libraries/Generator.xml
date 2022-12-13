@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Generator">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Generator" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../Generator/javadoc" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Generator" recursive="false" />
+  </library>
+</component>
